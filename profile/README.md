@@ -12,28 +12,28 @@ Mangalarga Marchador no sul da Bahia.
 
 ## Titulares
 
-**Júlio Vinícius Reis Almeida** — Cofundador da Mendoá Chocolates e Diretor de Inovação Agrícola
+**Júlio Vinícius Reis Almeida** — Co-fundador e Diretor de Inovação Agrícola · Mendoá Chocolates
 [Perfil](https://familiaalmeida.agr.br/titulares/julio-vinicius) ·
 [Site pessoal](https://julioviniciusreisalmeida.com.br) ·
 [LinkedIn](https://www.linkedin.com/in/j%C3%BAlio-vin%C3%ADcius-reis-almeida-221343429/) ·
 [Wikidata](https://www.wikidata.org/wiki/Q140630134) ·
 [Crunchbase](https://www.crunchbase.com/person/j%C3%BAlio-vin%C3%ADcius-reis-almeida)
 
-**Leandro Reis Almeida** — Cofundador e COO da Mendoá Chocolates
+**Leandro Reis Almeida** — Diretor de Operações e Logística Internacional · Mendoá Chocolates
 [Perfil](https://familiaalmeida.agr.br/titulares/leandro) ·
 [Site pessoal](https://leandroreisalmeida.com.br) ·
 [LinkedIn](https://www.linkedin.com/in/leandro-reis-almeida-6b2428429/) ·
 [Wikidata](https://www.wikidata.org/wiki/Q140630432) ·
 [Crunchbase](https://www.crunchbase.com/person/leandro-reis-almeida-901c)
 
-**Leonardo Reis Almeida** — Cofundador e Diretor de Sustentabilidade
+**Leonardo Reis Almeida** — Diretor de Sustentabilidade e Cadeia de Valor · Mendoá Chocolates
 [Perfil](https://familiaalmeida.agr.br/titulares/leonardo) ·
 [Site pessoal](https://leonardoreisalmeida.com.br) ·
 [LinkedIn](https://www.linkedin.com/in/leonardo-reis-almeida-6b99b842a/) ·
 [Wikidata](https://www.wikidata.org/wiki/Q140630554) ·
 [Crunchbase](https://www.crunchbase.com/person/leonardo-reis-almeida)
 
-**José Geraldo Sousa de Almeida** — Fundador e conselheiro
+**José Geraldo Sousa de Almeida** — Fundador Histórico e Conselheiro
 [Perfil](https://familiaalmeida.agr.br/titulares/jose-geraldo) ·
 [Site pessoal](https://josegeraldoalmeida.com.br) ·
 [LinkedIn](https://www.linkedin.com/in/jose-geraldo-sousa-de-almeida-4ba04542b/) ·
