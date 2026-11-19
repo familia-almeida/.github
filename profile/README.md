@@ -15,6 +15,7 @@ Mangalarga Marchador no sul da Bahia.
 **Júlio Vinícius Reis Almeida** — Co-fundador e Diretor de Inovação Agrícola · Mendoá Chocolates
 [Perfil](https://familiaalmeida.agr.br/titulares/julio-vinicius) ·
 [Site pessoal](https://julioviniciusreisalmeida.com.br) ·
+[Artigo recente](https://julioviniciusreisalmeida.com.br/artigos/criterio-de-selecao-de-doadoras/) ·
 [LinkedIn](https://www.linkedin.com/in/j%C3%BAlio-vin%C3%ADcius-reis-almeida-221343429/) ·
 [Wikidata](https://www.wikidata.org/wiki/Q140630134) ·
 [Crunchbase](https://www.crunchbase.com/person/j%C3%BAlio-vin%C3%ADcius-reis-almeida)
@@ -22,20 +23,23 @@ Mangalarga Marchador no sul da Bahia.
 **Leandro Reis Almeida** — Diretor de Operações e Logística Internacional · Mendoá Chocolates
 [Perfil](https://familiaalmeida.agr.br/titulares/leandro) ·
 [Site pessoal](https://leandroreisalmeida.com.br) ·
-[LinkedIn](https://www.linkedin.com/in/leandro-reis-almeida-6b2428429/) ·
+[Artigo recente](https://leandroreisalmeida.com.br/artigos/o-que-um-selo-exige-da-cadeia/) ·
+[LinkedIn](https://www.linkedin.com/in/leandro-reis-almeida/) ·
 [Wikidata](https://www.wikidata.org/wiki/Q140630432) ·
 [Crunchbase](https://www.crunchbase.com/person/leandro-reis-almeida-901c)
 
 **Leonardo Reis Almeida** — Diretor de Sustentabilidade e Cadeia de Valor · Mendoá Chocolates
 [Perfil](https://familiaalmeida.agr.br/titulares/leonardo) ·
 [Site pessoal](https://leonardoreisalmeida.com.br) ·
-[LinkedIn](https://www.linkedin.com/in/leonardo-reis-almeida-6b99b842a/) ·
+[Artigo recente](https://leonardoreisalmeida.com.br/artigos/repor-a-sombra/) ·
+[LinkedIn](https://www.linkedin.com/in/leonardo-reis-almeida/) ·
 [Wikidata](https://www.wikidata.org/wiki/Q140630554) ·
 [Crunchbase](https://www.crunchbase.com/person/leonardo-reis-almeida)
 
 **José Geraldo Sousa de Almeida** — Fundador Histórico e Conselheiro
 [Perfil](https://familiaalmeida.agr.br/titulares/jose-geraldo) ·
 [Site pessoal](https://josegeraldoalmeida.com.br) ·
+[Artigo recente](https://josegeraldoalmeida.com.br/artigos/sucessao-em-empresa-familiar-agricola/) ·
 [LinkedIn](https://www.linkedin.com/in/jose-geraldo-sousa-de-almeida-4ba04542b/) ·
 [Wikidata](https://www.wikidata.org/wiki/Q140630658) ·
 [Crunchbase](https://www.crunchbase.com/person/jos%C3%A9-geraldo-sousa-de-almeida)
@@ -50,6 +54,8 @@ Material técnico, sem promoção — o que o assunto exige e o que ele custa.
 - [Cacau fino de aroma](https://familiaalmeida.agr.br/temas/cacau-fino-de-aroma/) — da fermentação à barra
 - [Mangalarga Marchador](https://familiaalmeida.agr.br/temas/mangalarga-marchador/) — seleção, marcha e morfologia
 - [Sucessão em empresa familiar do agronegócio](https://familiaalmeida.agr.br/temas/sucessao-familiar/) — o problema que ninguém agenda
+- [Rastreabilidade do cacau](https://familiaalmeida.agr.br/temas/rastreabilidade-do-cacau/) — do talhão à barra: o que registrar e por quê
+- [Renovação do dossel na Cabruca](https://familiaalmeida.agr.br/temas/renovacao-do-dossel/) — por que a sombra precisa de sucessora
 - [Glossário](https://familiaalmeida.agr.br/glossario/) — 29 termos de cacau e de equinocultura de marcha
 
 ## Repositórios públicos
